@@ -1,0 +1,49 @@
+﻿html {
+    position: relative;
+    min-height: 100%;
+    margin: 0px;
+}
+
+body {
+    margin-bottom: 10vh;
+    margin: 0px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    width: 100%;
+    flex: 0 1 auto;
+    background-color: black;
+}
+
+img.img-thumbnail {
+    background-color: #2196f3;
+}
+
+#bg > img {
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.fa {
+    color: black;
+    margin: 10px;
+}
+
+.white {
+    color: white;
+}
+
+.textAboutUs {
+    font-family: Georgia, serif;
+    font-size: 24px;
+    position: relative;
+    color: #fff;
+}

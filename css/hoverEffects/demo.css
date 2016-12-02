@@ -1,0 +1,26 @@
+
+/* General Demo Style */
+body {
+    color: #333;
+    font-family: 'Oswald', Arial, sans-serif;
+    font-size: 13px;
+}
+
+.container {
+    position: relative;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.clr {
+    clear: both;
+}
+
+.main {
+    position: relative;
+    width: 680px;
+    margin: 0 auto;
+}
